@@ -6,8 +6,8 @@ including id, release date, ratings, budget, revenue, cast, director, genres, ru
 
 Questions:
 
-Which genres generated the most profit over the time? 
-Are more budget provided to movies in 21st century than 20th century? 
-What is the most popular movies in 21st century era, what genres is it and what year it released? 
-Who is director of the most popular movies in 20th century and the amount of profit that movie got? 
-Are there association between the run time and other features?
+-Which genres generated the most profit over the time? 
+-Are more budget provided to movies in 21st century than 20th century? 
+-What is the most popular movies in 21st century era, what genres is it and what year it released? 
+-Who is director of the most popular movies in 20th century and the amount of profit that movie got? 
+-Are there association between the run time and other features?
